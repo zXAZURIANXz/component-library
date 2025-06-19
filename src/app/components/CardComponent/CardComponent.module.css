@@ -1,0 +1,16 @@
+
+
+.card {
+  padding: 1rem;
+  max-width: 400px;
+  overflow: hidden;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+}
+
+.image {
+  width: 100%;
+  border-radius: 8px 8px 0 0;
+  margin-bottom: 1rem;
+  object-fit: cover;
+}

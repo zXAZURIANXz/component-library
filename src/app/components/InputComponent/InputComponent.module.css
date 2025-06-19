@@ -1,0 +1,18 @@
+
+
+
+.input_component{
+	width: 90%;
+  padding: 12px;
+  border-radius: 10px;
+	border: 2px solid;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16),
+              0 3px 6px rgba(0, 0, 0, 0.23);
+  font-size: 1rem;
+}
+
+.default {border-color: #3B82F6;}
+
+.error {border-color: #EF4444;}
+
+.success {border-color: #10B981;}
